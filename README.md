@@ -1,2 +1,4 @@
 # project-sunshine
-Udacity sunshine spp course
+Udacity sunshine App course
+Hi, 
+here´s a change in the readme file
